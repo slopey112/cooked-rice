@@ -1,0 +1,56 @@
+!! Colorscheme
+! special
+*.foreground:   #ded1d0
+*.background:   #090d0f
+*.cursorColor:  #ded1d0
+
+! black
+*.color0:       #282a2e
+*.color8:       #373b41
+
+! red
+*.color2:       #a54242
+*.color10:       #cc6666
+
+! green
+*.color3:       #54bc53
+*.color11:      #a5d291
+
+! yellow
+*.color1:       #d55e42
+*.color9:      #f0c674
+
+! blue
+*.color4:       #7c93b1
+*.color12:      #81a2be
+
+! magenta
+*.color5:       #bc3eed
+*.color13:      #b294bb
+
+! cyan
+*.color6:       #5e8d87
+*.color14:      #8abeb7
+
+! white
+*.color7:       #707880
+*.color15:      #c5c8c6
+
+!! URxvt Appearance
+URxvt.font: xft:IBM Plex Mono:style=Text
+URxvt.boldFont: xft:IBM Plex Mono:style=Bold
+URxvt.italicFont: xft:IBM Plex Mono:style=Italic
+URxvt.boldItalicfont: xft:IBM Plex Mono:style=Bold Italic
+URxvt.letterSpace: 0
+URxvt.lineSpace: 0
+URxvt.geometry: 92x24
+URxvt.internalBorder: 24
+URxvt.cursorBlink: false
+URxvt.cursorUnderline: false
+URxvt.saveline: 2048
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.depth: 32
+URxvt.iso14755: false
+URxvt.background: [60]#000000
