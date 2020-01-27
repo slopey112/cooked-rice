@@ -6,3 +6,4 @@ my rice:
 - Terminal: urxvt
 - Bar: Polybar
 - App Launcher: rofi
+[Screenshots](https://www.reddit.com/r/unixporn/comments/eiosug/i3gaps_riced_my_chromebook/)
