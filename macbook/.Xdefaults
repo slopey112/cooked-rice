@@ -1,0 +1,48 @@
+! special
+*.foreground:   #eeeeee
+*.background:   #0d0c13
+*.cursorColor:  #eeeeee
+
+! black
+*.color0:       #282a2e
+*.color8:       #373b41
+
+! red
+*.color1:       #aaacf4
+*.color9:       #aaacf4
+
+! green
+*.color2:       #8f81dd
+*.color10:      #8f81dd
+
+! yellow
+*.color3:       #5e67b5
+*.color11:      #5e67b5
+
+! blue
+*.color4:       #5d5077
+*.color12:      #5d5077
+
+! magenta
+*.color5:       #5549c9
+*.color13:      #5549c9
+
+! cyan
+*.color6:       #75e6a1
+*.color14:      #75e6a1
+
+! white
+*.color7:       #707880
+*.color15:      #c5c8c6
+
+!! URxvt Appearance
+URxvt.font: xft:Inconsolata:style=Medium:pixelsize=20
+URxvt.letterSpace: 0
+URxvt.linespace: 0
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.background: [10]#000000
+URxvt.internalBorder: 25
+URxvt.perl-ext-common: selection-to-clipboard
+URxvt.keysym.Shift-Alt-V: eval:paste_clipboard
+URxvt.keysym.Shift-Alt-C: eval:selection_to_clipboard
